@@ -18,15 +18,25 @@ You can find the sw.js in the /public directory
 FetchEvent {isTrusted: true, request: Request, clientId: null, isReload: false, preloadResponse: Promise, …}
 
 request:Request
+
 bodyUsed:false
+
 credentials:"include"
+
 headers:Headers {}
+
 integrity:""
+
 method:"GET"
+
 mode:"navigate"
+
 redirect:"manual"
+
 referrer:""
+
 referrerPolicy:"no-referrer-when-downgrade"
+
 url:"https://ssh.killianh.fr/settings#/subscription"
 
 The FetchEvent for "https://ssh.killianh.fr/settings#/subscription" resulted in a network error response: a redirected response was used for a request whose redirect mode is not "follow".
